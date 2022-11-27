@@ -1,0 +1,87 @@
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style2.css">
+    <title>CHAMPIONS</title>
+    <link rel="icon" type="image/x-icon" href="https://logos-world.net/wp-content/uploads/2021/08/Champion-Logo.png">
+</head>
+<body>
+    <section id="stick">
+                <div class="team">
+                    <a><h1><span>CHAMPIONS</span>TEAM 22</h1></a>
+                </div>
+            <div class="nav-list">
+                <ul>
+                    <li><a href="index1.html">INTRODUCTION</a></li>
+                    <li><a href="#members" data-after="Members">MEMBERS</a></li>
+                    <li><a href="#div2" data-after="Div2">HOUR OF CODE</a></li>
+                    <li><a href="#div3" data-after="Div3">WEBSITE PROJECT</a></li>
+                </ul>
+            </div>
+    </section>
+    <section id="intro">
+        <div class="intro">
+            <div>
+                <br /><br /><br/><br /><br /><br />
+                <h1>Hello,</h1>
+                <h1>Our team's number is</h1>
+                <h1>22</h1>
+            </div>
+        </div>
+    </section>
+    <section id="members">
+        <div class="info">
+            <div class="members-head">
+                <h1 class="title">Members</h1>
+                <p>Let's know us!</p>
+            </div>
+            <div class="about">
+                <div class="members-attribute">
+                    <h2>Murad Bakirov</h2><br /><br />
+                    My faculty is Computer Science (BSCS 2025). I am from Kurdamir. I live in Yeni Yasamal. I graduated from high school number 228. I was admitted to ADA University with 620 points.
+                    <br /><br /><br />
+                    <p>E-mail</p><br />
+                    <a href="mailto:mbakirov14052@ada.edu.az" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" style="margin: 0px; color: dodgerblue !important;" data-linkindex="0" data-ogsc="">mbakirov14052@ada.edu.az</a>
+                </div>
+                <div class="members-attribute">
+                    <h2>Gunel Aliyeva</h2><br /><br />
+                    My major is Computer Science (BSCS 2025). I am from Azerbaijan.I have graduated from Dunya school.
+                    <br /><br />
+                    <br /><br /><br /><br />
+                    <p>E-mail</p><br />
+                                 <a href="mailto:galiyeva15577@ada.edu.az" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" style="margin: 0px; color: dodgerblue !important;" data-linkindex="0" data-ogsc="">galiyeva15577@ada.edu.az</a>
+                </div>
+                <div class="members-attribute">
+                    <h2>Royana Huseynova</h2><br /><br />
+                    My faculty is Computer Science (BSCS 2025).I am from Azerbaijan.I have graduated from ADA School.
+                    <br /><br />
+                    <br /><br /><br /><br />
+                    <p>E-mail</p><br />
+                                 <a href="mailto:rhuseynova11270@ada.edu.az" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" style="margin: 0px; color: dodgerblue !important;" data-linkindex="0" data-ogsc="">rhuseynova11270@ada.edu.az</a>
+                </div>
+                <div class="members-attribute">
+                    <h2>Zumrud Mammadli</h2><br /><br />
+                    My major is Computer Science (BSCS 2022). I am from Azerbaijan.Have graduated from school number 27. Got accepted into ADA University with 522 score.
+                    <br /><br /><br /><br />
+                    <p>E-mail</p><br />
+                                 <a href="mailto:zmammadli7887@ada.edu.az" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" style="margin: 0px; color: dodgerblue !important;" data-linkindex="0" data-ogsc="">zmammadli7887@ada.edu.az</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div id="div2">
+        <div class="div2">
+            <br /><br /><br /><br />
+            <h1>The Hour of Code</h1>
+            The Hour of Code is a campaign that annually takes place during Computer Science Education. During this campaign, students are introduced to computer science. It aims to demystify "coding," demonstrate that anybody can learn the fundamentals, and increase engagement in the subject.The first thing we did was gather together and choose the school where our Hour of Code would take place. We registered our Hour of Code event after gaining approval. After that, we discussed and assigned duties, as well as preparing an introduction to ADA University and our school.
+        </div>
+        </div>
+        <div id="div3">
+            <div class="div3">
+                <br /><br /><br />
+                <h1>Website Project</h1>
+                <br />
+                In our website project, we talked about ourselves, our team and our Hour of Code event. Since we created the site for the first time, it was very difficult and time consuming for us. However, we divided it among the members of the group and our work became a little easier. It is very difficult to write CSS codes. Sometimes the codes we write do not work due to small errors, and it is tiring to look for these errors. But we will do our best to get high scores. We had some discussions in the group about creating Java Script animation to see how we could create something to make our page more attractive. We started creating this project on December 1 and it took us about three days. Although our website is not very professional, we will try to create a site that looks good and is loved by others.
+            </div>
+        </div>
+</body>
+</html>

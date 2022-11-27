@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>TEAM 22</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style1.css">
+    <link rel="icon" type="image/x-icon" href="https://logos-world.net/wp-content/uploads/2021/08/Champion-Logo.png">
+</head>
+<body>
+
+ <div class="container"></div>
+ 			<div class="team">
+ 				<h1>TEAM 22</h1>
+                 <hr />
+                <h4 class="int">        Our team consists of 4 people. The major of us all is Computer Science. You can see more information about our team and projects on the next page.</h4>	
+                <a href="index2.html"><button class ="button" style="vertical-align:middle"><span>Next </span></button></a>
+                <script src="./animation.js"></script>
+ 			</div>
+</body>
+</html>
